@@ -9,4 +9,4 @@ def kovid(x, y, z):
     print("My age is ", z)
 
 
-kovid("Coder Kovid", "Male", 14)
+kovid("Coder Kovid", "M", 14)
